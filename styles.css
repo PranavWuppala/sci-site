@@ -822,6 +822,12 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   display: grid;
   place-items: center;
 }
+.fac .fac-photo.fac-photo-img {
+  background: none;
+  background-size: cover;
+  background-position: center 15%;
+  font-size: 0;
+}
 .fac h4 {
   font-family: 'Merriweather', Georgia, serif;
   color: var(--navy);
